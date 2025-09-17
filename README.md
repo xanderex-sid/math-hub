@@ -1,2 +1,2 @@
-# math-hub
-Here I upload my notes and solved questions.
+# shũnya
+A hub for coding mathematics.
