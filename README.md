@@ -1,2 +1,2 @@
 # shũnya
-A hub for coding and documenting mathematics, theorems, and formulas.
+A lab to make useful modules to solve real-world problems using machine learning and mathematics.
